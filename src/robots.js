@@ -23,4 +23,16 @@ export const robots = [
     username: 'yusbaby',
     email: 'yusrahshow@gmail.com' 
   },
+  {
+    id: 5, 
+    name: 'Daddy Show',
+    username: 'daddyshow',
+    email: 'daddyshow@gmail.com' 
+  },
+  {
+    id: 6, 
+    name: 'Mummy',
+    username: 'mummy',
+    email: 'mummy@gmail.com' 
+  },
 ]
